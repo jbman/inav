@@ -1,10 +1,9 @@
 # Board - FLYWOOF411
 
 ![Banggood](https://img.staticbg.com/thumb/view/oaupload/banggood/images/A5/01/79d28a2c-ef4b-4e4f-bab6-14edf66bbb23.jpg)
-![Banggood](https://img.staticbg.com/images/oaupload/banggood/images/2E/C5/c14a1e86-4e58-4bc8-85de-8e344cb382b9.jpg)
-![Banggood](https://img.staticbg.com/images/oaupload/banggood/images/42/F7/45a68ade-9be1-4fff-afec-bbdd45f0331d.jpg)
+![Board-Layout](https://user-images.githubusercontent.com/10727513/85220040-e0771680-b3a8-11ea-929c-e29c7543c094.jpg)
 
-*Note:* This board used to be sold as a 'NOX F4' but is now an updated version similar to a Flywoo F411
+*Note:* This board used to be sold as a 'NOX F4'. An updated version 'F4 Noxe V1' is sold now, which is similar to a Flywoo F411.
 
 ## Banggood Specification:
 * Model: Upgrade Betaflight F4 Noxe V1
